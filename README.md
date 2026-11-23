@@ -1,0 +1,2 @@
+# sc-cdn
+runtime config
